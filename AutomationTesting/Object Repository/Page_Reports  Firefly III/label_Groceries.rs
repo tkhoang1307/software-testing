@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Groceries</name>
+   <tag></tag>
+   <elementGuidId>32e225db-b704-4600-9328-a6229bd4d3ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='extra-options']/div/div/span/div/ul/li[4]/a/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group.open > ul.multiselect-container.dropdown-menu > li:nth-of-type(4) > a > label.checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d6be68db-bad4-4ad2-8846-75e903d3d898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>cc533764-9f0d-4456-93c6-21d740951d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Groceries</value>
+      <webElementGuid>f5c6ccbb-6c60-4711-882e-270f7cbd8e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extra-options&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-9&quot;]/span[@class=&quot;multiselect-native-select&quot;]/div[@class=&quot;btn-group open&quot;]/ul[@class=&quot;multiselect-container dropdown-menu&quot;]/li[4]/a[1]/label[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>79a50fa2-3f62-4217-b1d9-0047a38b9508</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='extra-options']/div/div/span/div/ul/li[4]/a/label</value>
+      <webElementGuid>52aad01b-f6a0-435a-b571-5c7249572044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/span/div/ul/li[4]/a/label</value>
+      <webElementGuid>04a30054-bb23-4592-a4e4-5d5f8d28c38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Groceries' or . = ' Groceries')]</value>
+      <webElementGuid>52e1cff8-55c9-4a69-956b-df8f6f1757a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

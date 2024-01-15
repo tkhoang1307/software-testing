@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Bills</name>
+   <tag></tag>
+   <elementGuidId>ffab790e-7a4e-495f-aecf-75f393888edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='extra-options']/div/div/span/div/ul/li[5]/a/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a > label.checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c66fb432-aa05-40ad-b46a-751663336203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>7c1ba4bd-b457-4f61-bdfc-7331e0213937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bills</value>
+      <webElementGuid>bb5e829d-4d90-4461-9795-3b94636b9e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extra-options&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-9&quot;]/span[@class=&quot;multiselect-native-select&quot;]/div[@class=&quot;btn-group open&quot;]/ul[@class=&quot;multiselect-container dropdown-menu&quot;]/li[5]/a[1]/label[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>c5d8168e-cbd1-4e15-98f6-5acabe038aee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='extra-options']/div/div/span/div/ul/li[5]/a/label</value>
+      <webElementGuid>0b51eb23-5fbe-4629-939c-31e78f1f714f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/span/div/ul/li[5]/a/label</value>
+      <webElementGuid>77ac076d-3e81-4859-9921-6c55f92f169d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Bills' or . = ' Bills')]</value>
+      <webElementGuid>a0bdea25-9d41-457e-b672-b8c821989b82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
